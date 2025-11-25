@@ -1,5 +1,6 @@
 <!-- <div align="center">
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+View your app in AI Studio: https://ai.studio/apps/drive/1Kg9uj-Hft8dRoHgNBOVp_PPZksrDYDng
 </div> -->
 
 # Run and deploy your AI Studio app
@@ -8,7 +9,7 @@ https://copy-of-appointment-scheduler-612402438818.us-west1.run.app/
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1Kg9uj-Hft8dRoHgNBOVp_PPZksrDYDng
+
 
 ## Run Locally
 
